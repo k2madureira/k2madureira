@@ -5,8 +5,7 @@
 
 
   <p width="80%">I'm a full stack developer who loves programming. I currently work as Nodejs, React, Laravel delevoper.</p>
-  
-  ![typingpng](https://user-images.githubusercontent.com/26586585/92669614-7a839680-f2e8-11ea-88d5-3fb5f04cc720.png)
+  <img src="https://1.bp.blogspot.com/-gnSlLqfzsDU/X1l-2JJWuTI/AAAAAAAAESo/d5s68kCBRcsKx1HMmQGcqosGgQ2QWFnbwCLcBGAsYHQ/s320/typingpng.png" width="30%" align="right">
   
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lenilson-madureira-b6abb4120/) or lenilsonmadureira@gmail.com
 - ⚡ Fun fact: I currently work also with QlikSense, PowerBi and Alteryx.
