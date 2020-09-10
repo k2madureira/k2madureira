@@ -5,7 +5,7 @@
 
 
   <p width="80%">I'm a full stack developer who loves programming. I currently work as Nodejs, React, Laravel delevoper.</p>
-  <img src="typingpng.png" width="30%" align="right">
+  
   ![typingpng](https://user-images.githubusercontent.com/26586585/92669614-7a839680-f2e8-11ea-88d5-3fb5f04cc720.png)
   
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lenilson-madureira-b6abb4120/) or lenilsonmadureira@gmail.com
