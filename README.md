@@ -9,7 +9,7 @@
   
 - 🔎 about me: Graduated in information systems from the State University of Bahia (UNEB).
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lenilson-madureira-b6abb4120/) or lenilsonmadureira@gmail.com
-- ⚡ Fun fact: I currently work also with QlikSense, PowerBi, Alteryx and play violin 🎻.
+- ⚡ Fun fact: I play violin 🎻.
 - 🚀 Tools: Nodejs, React, React Native, PHP, Laravel, Mysql, PostgreSql, Oracle, SQL Server, Python...
 - 🧭 Future: Deno 🤔
 
