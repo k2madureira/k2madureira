@@ -22,4 +22,5 @@
 <img align="left" alt="React" width="36px" src="https://1.bp.blogspot.com/-u0UiZP-NVsE/X1pJzvKBguI/AAAAAAAAETM/GsJXSk6dO7kdUM3YkChOia-1hwdutDKbQCLcBGAsYHQ/s320/react.png"/>
 <img align="left" alt="PHP 7" width="36px" src="https://1.bp.blogspot.com/-3ncaMpmy7Uw/X1pJzHTO_2I/AAAAAAAAETI/oXz7oUq35XQGMrR0Iq7sqTBgzPsegNovwCLcBGAsYHQ/s320/php.png"/>
 <img align="left" alt="Laravel" width="36px" src="https://1.bp.blogspot.com/-ggKgSRX9e2E/X1pJy8XQO6I/AAAAAAAAETA/FoQktoJuClIRccJ4RmdE0pF1KY0leVwgACLcBGAsYHQ/s0/laravel_logo.png"/>
+<img align="left" alt="Laravel" width="36px" src="https://user-images.githubusercontent.com/26586585/130512003-253093ba-b04d-4a05-bfe9-cf2382a4f6c8.png"/>
 
