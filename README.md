@@ -4,7 +4,7 @@
 **k2madureira/k2madureira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-  <p width="80%">I'm a full stack developer who loves programming. I currently work as Nodejs, React, Laravel delevoper.</p>
+  <p width="80%">I'm a full stack developer who loves programming. I currently work with NodeJs and AWS.</p>
   <img src="https://1.bp.blogspot.com/-gnSlLqfzsDU/X1l-2JJWuTI/AAAAAAAAESo/d5s68kCBRcsKx1HMmQGcqosGgQ2QWFnbwCLcBGAsYHQ/s320/typingpng.png" width="30%" align="right">
   
 - 🔎 about me: Graduated in information systems from the State University of Bahia (UNEB).
