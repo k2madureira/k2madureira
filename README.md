@@ -1,4 +1,8 @@
-### Hello, I'm Lenilson 👋😉
+# Lenilson Madureira
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=k2madureira)
+[![Linkedin Badge](https://img.shields.io/badge/lenilson-madureira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lenilson-madureira-b6abb4120)](https://www.linkedin.com/in/lenilson-madureira-b6abb4120)
+
+### Hi, there! 👋😉
 
 <!--
 **k2madureira/k2madureira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
