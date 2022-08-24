@@ -15,7 +15,11 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lenilson-madureira-b6abb4120/) or lenilsonmadureira@gmail.com
 - ⚡ Fun fact: I play violin 🎻.
 - 🚀 Tools: Nodejs, NestJS, AWS, React, React Native, PHP, Laravel, Mysql, PostgreSql, SQL Server
-- 🧭 Future: Deno 🤔
+- 🧭 Future: Go / Python
+
+###
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k2madureira&count_private=true&show_icons=true&theme=black)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
 
